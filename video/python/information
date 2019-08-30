@@ -1,0 +1,13 @@
+todaycode오늘코드
+
+* 파이썬 머신러닝  라이브러리(Scikit-learn) 핵심 개발자가 PyData에서 2015년에 발표했던 자료를 바탕으로 머신러닝의 개념을 정리해 봅니다.
+* Supervised  Machine Learning 지도학습, 교수학습, 교사학습이라 번역되기도 하는 정답값이 있는 데이터를 학습시켜 예측하는 과정을 이해합니다.
+* Unsupervised  Machine Learning 정답값(label)이 없는 데이터를 군집화, 차원축소하는 기법에 대해 알아봅니다.
+* underfitting and overfitting 과적합과 과소적합을 알아봅니다.
+* 다양한 모델을 사용해 모델의 성능을 개선해 봅니다.
+
+* 영상 링크 : [Andreas Mueller: Machine Learning with scikit learn - YouTube](https://www.youtube.com/watch?v=nJfxG...)
+
+* 깃헙 저장소 : [amueller/odscon-2015: Slides and material for open data science](https://github.com/amueller/odscon-2015)
+
+* colab 실습 링크 : https://colab.research.google.com/github/amueller/odscon-2015/blob/master/Part%2001%20-%20Introduction%20to%20Scikit-learn.ipynb
